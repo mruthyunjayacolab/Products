@@ -1,0 +1,26 @@
+.dashboard{
+
+}
+
+.car{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    color: aliceblue;
+    font-size: 4px;
+    margin: 10px;
+}
+
+.car h2, h3{
+    font-size: 20px;
+}
+.imges{
+    width: 400px;
+}
+button{
+    font-size: 20px;
+}
+.imges{
+    margin-left: 100px;
+}
